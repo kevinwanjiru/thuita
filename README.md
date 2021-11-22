@@ -35,12 +35,10 @@ our new echnology life.Being productive in the society is all i want.
  </p>
 </body>
 <footer>
-    <ul>
        
         <li> <a href="">Github<i class="fab fa-github-alt fa-2x"></i></a></li>
         <li> <a href="">Twiter<i class="fab fa-github-alt fa-2x"></i></a></li>
         <li> <a href="">Instagram<i class="fab fa-github-alt fa-2x"></i></a></li>
         <li> <a href="">LinkedIn<i class="fab fa-github-alt fa-2x"></i></a></li>
-        <li> <a href="Miltio"></a></li>
-    </ul>
+  <li> <a href="Miltio"></a></li>
 </footer>
